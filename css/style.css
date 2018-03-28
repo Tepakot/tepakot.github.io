@@ -511,12 +511,13 @@ a:hover {
           transform: translate(0%); }
 
 .close-menu {
-  position: fixed;
-  right: 7rem;
-  top: -1rem;
-  font-size: 5rem;
-  font-weight: 900;
-  color: #FFF; }
+    position: fixed;
+    right: 3rem;
+    top: -1.5rem;
+    font-size: 6rem;
+    font-weight: 900;
+    color: #FFF;
+}
 
 .close-menu:hover {
   cursor: pointer; }
